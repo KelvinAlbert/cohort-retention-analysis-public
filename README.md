@@ -143,5 +143,5 @@ cohort-retention-analysis/
 ## 👤 Autor
 
 Desenvolvido por **Kelvin**.
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/kelvin-rosa-670a8a19b/)
-* **GitHub:** [github.com/seu-usuario](https://github.com/KelvinAlbert)
+* **LinkedIn:** [linkedin.com/in/Kelvin Rosa](https://www.linkedin.com/in/kelvin-rosa-670a8a19b/)
+* **GitHub:** [github.com/Kelvin Albert](https://github.com/KelvinAlbert)
